@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=E11Strutture
+PROJECTNAME=E11-Strutture
 
 # Active Configuration
 DEFAULTCONF=Debug

@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=e11strutture
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/e11strutture
+CND_ARTIFACT_NAME_Debug=e11-strutture
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/e11-strutture
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=e11strutture.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/e11strutture.tar
+CND_PACKAGE_NAME_Debug=e11-strutture.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/e11-strutture.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=e11strutture
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/e11strutture
+CND_ARTIFACT_NAME_Release=e11-strutture
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/e11-strutture
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=e11strutture.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/e11strutture.tar
+CND_PACKAGE_NAME_Release=e11-strutture.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/e11-strutture.tar
 #
 # include compiler specific variables
 #
